@@ -24,3 +24,8 @@ Evaluation using accuracy and loss plots
 IMDB Movie Reviews: Preprocessed dataset with 25,000 training and 25,000 testing samples.
 
 The dataset is loaded via Keras (keras.datasets.imdb).
+
+📈 Results
+The model achieves over 85% test accuracy after several epochs of training.
+
+Training and validation loss plots are included to visualize learning progression.
